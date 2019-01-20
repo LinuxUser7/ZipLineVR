@@ -6,10 +6,14 @@
 
 # Gaia Components
 Assets/AssetStoreTools*
-Assets/Gaia
+Assets/Gaia/
 Assets/Gaia.meta
-Assets/Gaia*Dependencies
+Assets/Gaia*Dependencies/
 Assets/Gaia*Dependencies.meta
+
+# SteamVR
+Assets/SteamVR/
+Assets/SteamVR.meta
 
 # Visual Studio cache directory
 .vs/
