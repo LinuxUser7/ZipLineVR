@@ -3,9 +3,13 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+
+# Gaia Components
 Assets/AssetStoreTools*
 Assets/Gaia
+Assets/Gaia.meta
 Assets/Gaia*Dependencies
+Assets/Gaia*Dependencies.meta
 
 # Visual Studio cache directory
 .vs/
